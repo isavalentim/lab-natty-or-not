@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando os atrativos dfo mundo dos cafés especiais.
 
-[LINK PARA O E-BOOK AQUI]()
+cafesespeciais.pdf
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
